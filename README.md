@@ -12,5 +12,5 @@ The communication demonstration in this repository showcases how two clients can
 
 ## Packet Analysis and Breaking the Private Key
 
-To demonstrate the vulnerabilities of RSA, the repository includes a packet analysis feature. This feature aims to analyze the packets sent over the communication channel and attempts to break the private key by employing prime factorization techniques. It provides insights into the security weaknesses of RSA and serves as an educational tool to understand the importance of key length and prime number selection.
+To demonstrate the vulnerabilities of RSA, the `factorization.ipynb` provides a documentation of the process of factorizing the puplic key to generate the private key by analyzing the packets sent over the communication channel and attempts to break the private key by employing prime factorization techniques. It provides insights into the security weaknesses of RSA and serves as an educational tool to understand the importance of key length and prime number selection.
 
